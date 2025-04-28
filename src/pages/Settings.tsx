@@ -51,7 +51,7 @@ const Settings: React.FC = () => {
     <div className="container mx-auto fade-in">
       <div className="mb-8">
         <h1 className="text-3xl font-bold text-slate-800 mb-2">Settings</h1>
-        <p className="text-slate-500">Configure the sLAW Workbench application</p>
+        <p className="text-slate-500">Configure the Wrongful Foreclosure Law Axion Workbench application</p>
       </div>
       
       <div className="bg-white rounded-xl card-shadow border border-slate-200 p-6">

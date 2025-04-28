@@ -30,7 +30,7 @@ const Navbar: React.FC = () => {
             <Shield size={20} className="text-white" />
           </div>
           <Link to="/" className="text-xl font-semibold text-slate-800">
-            sLAW Workbench
+            Wrongful Foreclosure Law Axion Workbench
           </Link>
         </div>
         
